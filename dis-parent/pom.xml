@@ -33,6 +33,7 @@
 
     <modules>
         <module>../es-demo</module>
+        <module>../rocketmq-demo</module>
     </modules>
 
 </project>
